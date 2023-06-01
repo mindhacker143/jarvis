@@ -2,9 +2,9 @@ import React from 'react'
 
 function AI() {
   return (
-    <div className='mix-blend-lighten hover:mix-blend-color-dodge py-20 cursor-pointer shadow-lg  '>
+    <div className=' cursor-pointer shadow-lg   '>
         
-        <img src="./img/ai2.png" className='h-[300px] w-[300px]' alt="" />
+        <img src="./img/ai4.png" className='h-[400px] w-[400px] hover:mix-blend-hard-light ' alt="" />
         
         </div>
         

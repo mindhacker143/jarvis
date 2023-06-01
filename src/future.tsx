@@ -2,16 +2,64 @@ import React from 'react'
 
 function FUTURE() {
   return (
-    <div className='flex space-x-72 p-8 '>
-        <h1 className=' text-[17px] font-thin space-y-5 '><li>The Future is now and you just need to realise it Step into future Today  & make it happen</li>
-        <li>The growing field of artificial design intelligence (ADI) systems has influenced a major shift in the way websites are designed today. In a traditional environment, the user interface design process is often overwhelming since you require a great deal of creativity to keep it unique. </li>
-        <li>It may begin with you and your team of designers sharing their ideas, jotting them down on a whiteboard, and exploring several possibilities and outcomes. Before any A/B testing can begin, the wireframe is set out and translated into HTML so the development process can begin. </li>
-        <li>With recent leaps in technology, AI has quickly mainstreamed into the online landscape, allowing designers to combine its applications into websites and create better functionality and user experience. </li>
+    <div className='flex space-x-[50px]  border-white h-fit '>
+      <div className='flex space-x-72  '>
+        <div className='wrap space-y-14'>
+        <h1 className=' text-2xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-[#AE67FA]  to-[#F49867] '>
+          The Future is Now and <br /> You Just Need To Realize <br />   It.  Step into Future  Today <br /> & Make it Happen.
+        </h1>
+        <p className='text-[#FF8A71]'>Request Early Access to Get Started</p>
+        </div>
        
-         </h1>
-        <img src="./img/ai.png" className='h-[500px] w-[500px] mix-blend-color-dodge  animate-pulse' alt="" />
-        
+  
+
+      </div>
+
+      
+      <div className=' space-x-4 space-y-9'>
+        <div className='space-y-4 flex items-center justify-end '>
+          <div className=''>
+            <div className=' w-10  h-2  bg-gradient-to-r from-[#AE67FA]  to-[#F49867] '></div>
+            <div className='text-white text-xl font-bold w-[350px] '>Improving end <br /> distrusts instantly </div>
+          </div>
+
+          <div className='text-white text-[15px]  w-[350px] tracking-wide'>From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.</div>
+
+        </div>
+        <div className='space-y-4 flex items-center justify-end '>
+          <div className=''>
+            <div className=' w-10  h-2  bg-gradient-to-r from-[#AE67FA]  to-[#F49867] '></div>
+            <div className='text-white text-xl font-bold w-[350px] '>Improving end <br /> distrusts instantly </div>
+          </div>
+
+          <div className='text-white text-[15px]  w-[350px] tracking-wide'>From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.</div>
+
+        </div>
+        <div className='space-y-4 flex items-center justify-end '>
+          <div className=''>
+            <div className=' w-10  h-2  bg-gradient-to-r from-[#AE67FA]  to-[#F49867] '></div>
+            <div className='text-white text-xl font-bold w-[350px] '>Improving end <br /> distrusts instantly </div>
+          </div>
+
+          <div className='text-white text-[15px]  w-[350px] tracking-wide'>From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.</div>
+
+        </div>
+        <div className='space-y-4 flex items-center justify-end '>
+          <div className=''>
+            <div className=' w-10  h-2  bg-gradient-to-r from-[#AE67FA]  to-[#F49867] '></div>
+            <div className='text-white text-xl font-bold w-[350px] '>Improving end <br /> distrusts instantly </div>
+          </div>
+
+          <div className='text-white text-[15px]  w-[350px] tracking-wide'>From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.</div>
+
+        </div>
+      </div>
+
+
+
     </div>
+
+
   )
 }
 
