@@ -9,6 +9,8 @@ import WTG from './wtg'
 import IMAGINE from './imagine'
 import CHATBOX from './chatbox'
 import REMOTE from './remote'
+import REGISTER from './register'
+import BUTTON2 from './button2'
 
 
 
@@ -50,6 +52,8 @@ function App() {
         <div className="w-full border-2 border-white">
 
         <REMOTE></REMOTE>
+        <REGISTER></REGISTER>
+        
         </div>
 
        
