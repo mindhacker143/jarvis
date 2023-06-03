@@ -1,7 +1,7 @@
 import React from 'react'
 import BUTTON from './button1'
 
-function NAVBAR() {
+function Navbar() {
   return (
     <nav className=' bg-transparent p-10 justify-center items-center flex space-x-32  '>
         <div className='text-white text-[30px]  font-bold'>gpt5</div>
@@ -18,4 +18,4 @@ function NAVBAR() {
   )
 }
 
-export default NAVBAR
+export default Navbar

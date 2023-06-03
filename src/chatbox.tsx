@@ -1,6 +1,6 @@
 import React from 'react'
 
-function CHATBOX() {
+function Chatbox() {
   return (
     <div className='flex space-x-6'>
         <div>
@@ -32,4 +32,4 @@ function CHATBOX() {
   )
 }
 
-export default CHATBOX
+export default Chatbox

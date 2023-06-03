@@ -1,8 +1,8 @@
 import React from 'react'
 
-function BOX() {
+function Box() {
   return (
-    <div className='h-screen w-full flex justify-center  py-20  space-x-10 text-white'>
+    <div className=' w-full flex justify-center  py-20  space-x-10 text-white'>
 
         <div className=' h-fit bg-[#042C54]'>
         <div className=' w-[317px] h-fit '>
@@ -64,4 +64,4 @@ function BOX() {
   )
 }
 
-export default BOX
+export default Box

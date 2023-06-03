@@ -1,6 +1,6 @@
 import React from 'react'
 
-function WTG() {
+function Wtg() {
   return (
     <div className='h-fit w-full flex   space-x-20 py-10 '>
         <div className='space-y-4'>
@@ -17,4 +17,4 @@ function WTG() {
   )
 }
 
-export default WTG
+export default Wtg

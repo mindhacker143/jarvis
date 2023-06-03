@@ -1,6 +1,6 @@
 import React from 'react'
 
-function IMAGINE() {
+function Imagine() {
   return (
     <div className='flex justify-between'>
         <div className='text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-[#AE67FA]  to-[#F49867]'>The possibilities are  beyond your <br /> imagination</div>
@@ -9,4 +9,4 @@ function IMAGINE() {
   )
 }
 
-export default IMAGINE 
+export default Imagine 

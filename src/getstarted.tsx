@@ -1,6 +1,6 @@
 import React from 'react'
 
-function GETSTARTED() {
+function Getstarted() {
     return (
         <div className=' font-sans px-[90px] py-20 space-y-8'>
             <div className='text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-[#AE67FA]  to-[#F49867]'>Let’s Build Something <br /> amazing with  GPT-3 <br /> OpenAI</div>
@@ -33,4 +33,4 @@ function GETSTARTED() {
     )
 }
 
-export default GETSTARTED
+export default Getstarted

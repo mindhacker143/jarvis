@@ -1,6 +1,6 @@
 import React from 'react'
 
-function FUTURE() {
+function Future() {
   return (
     <div className='flex space-x-[50px]  border-white h-fit '>
       <div className='flex space-x-72  '>
@@ -63,4 +63,4 @@ function FUTURE() {
   )
 }
 
-export default FUTURE
+export default Future

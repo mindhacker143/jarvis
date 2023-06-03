@@ -1,6 +1,6 @@
 import React from 'react'
 
-function STEP() {
+function Step() {
   return (
     <div className='h-[790px] w-full  items-center justify-center text-center py-20  bg-[#031B34]'>
         <div className='space-y-10'>
@@ -53,4 +53,4 @@ function STEP() {
   )
 }
 
-export default STEP
+export default Step

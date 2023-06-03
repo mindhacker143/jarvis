@@ -1,6 +1,6 @@
 import React from 'react'
 
-function AI() {
+function Ai() {
   return (
     <div className=' cursor-pointer shadow-lg   '>
         
@@ -11,4 +11,4 @@ function AI() {
   )
 }
 
-export default AI
+export default Ai

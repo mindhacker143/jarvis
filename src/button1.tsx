@@ -1,6 +1,6 @@
 import React from 'react'
 
-function BUTTON() {
+function Button() {
   return (
     <div className=' space-x-6  flex text-center items-center'>
         <a href="" className='text-[13px] text-white hover:text-slate-200 font-bold'>Sign up</a>
